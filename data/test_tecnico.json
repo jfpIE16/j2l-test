@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "año": 2020,
+        "precio_venta": 18000,
+        "costo_vehiculo": 15000,
+        "color": "Blanco",
+        "disponible": true,
+        "fecha_formato": "2023-12-15",
+        "kilometraje": 32000
+    },
+    {
+        "id": 2,
+        "marca": "Honda",
+        "modelo": "Civic",
+        "año": 2019,
+        "precio_venta": 17000,
+        "costo_vehiculo": null,
+        "color": "Negro",
+        "disponible": false,
+        "fecha_formato": "2023-11-10",
+        "kilometraje": null
+    },
+    {
+        "id": 3,
+        "marca": "Ford",
+        "modelo": "Focus",
+        "año": 2021,
+        "precio_venta": 20000,
+        "costo_vehiculo": 16000,
+        "color": "Azul",
+        "disponible": true,
+        "fecha_formato": "2024-01-05",
+        "kilometraje": 15000
+    },
+    {
+        "id": 4,
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "año": 2020,
+        "precio_venta": 19500,
+        "costo_veiculo": 15500,
+        "color": null,
+        "disponible": true,
+        "fecha_formato": "2023-10-20",
+        "kilometraje": 45000
+    },
+    {
+        "id": 5,
+        "marca": "Nissan",
+        "modelo": "Sentra",
+        "año": 2018,
+        "precio_venta": 16000,
+        "costo_vehiculo": 13000,
+        "color": "Gris",
+        "disponible": false,
+        "fecha_formato": null,
+        "kilometraje": 52000
+    },
+    {
+        "id": 6,
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "año": 2019,
+        "precio_venta": 17500,
+        "costo_vehiculo": 14500,
+        "color": "Negro",
+        "disponible": true,
+        "fecha_formato": "2024-01-01",
+        "kilometraje": 29000
+    },
+    {
+        "id": 7,
+        "marca": "Honda",
+        "modelo": "Civic",
+        "año": null,
+        "precio_venta": 16500,
+        "costo_vehiculo": 13500,
+        "color": "Blanco",
+        "disponible": true,
+        "fecha_formato": "2023-09-15",
+        "kilometraje": null
+    },
+    {
+        "id": 8,
+        "marca": "Ford",
+        "modelo": "Focus",
+        "año": 2021,
+        "precio_venta": null,
+        "costo_vehiculo": 16200,
+        "color": "Rojo",
+        "disponible": false,
+        "fecha_formato": "2023-08-10",
+        "kilometraje": 18000
+    },
+    {
+        "id": 9,
+        "marca": "Toyota",
+        "modelo": "Yaris",
+        "año": 2022,
+        "precio_venta": 19000,
+        "costo_vehiculo": 16000,
+        "disponible": true,
+        "fecha_formato": "2024-02-10",
+        "kilometraje": 10000
+    },
+    {
+        "id": 10,
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "año": 2020,
+        "precio_venta": 19800,
+        "costo_vehiculo": null,
+        "color": "Verde",
+        "disponible": false,
+        "fecha_formato": "2023-12-01",
+        "kilometraje": 40000
+    }
+]
